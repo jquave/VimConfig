@@ -11,5 +11,8 @@ if has("autocmd")
   autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
   autocmd FileType php set omnifunc=phpcomplete#CompletePHP
   autocmd FileType c set omnifunc=ccomplete#Complete
+  autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS  
 endif
+
+map <C-A> :cd %:h<CR> " map F1 to change working directory to open file
 
