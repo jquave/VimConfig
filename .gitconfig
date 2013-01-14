@@ -1,0 +1,5 @@
+[user]
+	name = Jameson Quave
+	email = jameson.quave@touchstudios.net
+[core]
+    excludesfile = ~/.global_gitignore
