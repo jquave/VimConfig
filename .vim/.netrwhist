@@ -1,6 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/jquave/Code/hdtool'
-let g:netrw_dirhist_2='/Users/jquave/Code/ctw-cocos2d'
-let g:netrw_dirhist_3='/Users/jquave/Code/ctw-cocos2d/ctw-cocos2d'
-let g:netrw_dirhist_4='/Users/jquave'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/jquave/Code/CrawFinder/js'
+let g:netrw_dirhist_2='/Users/jquave/.vim'
+let g:netrw_dirhist_3='/Users/jquave'

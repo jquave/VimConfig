@@ -1,5 +1,7 @@
 colorscheme wombat
 set shiftwidth=2
+set expandtab
+set tabstop=2
 set number
 set title
 
@@ -15,4 +17,5 @@ if has("autocmd")
 endif
 
 map <C-A> :cd %:h<CR> " map F1 to change working directory to open file
+
 
